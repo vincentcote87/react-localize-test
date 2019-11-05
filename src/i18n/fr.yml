@@ -1,0 +1,10 @@
+translation:
+  fname: Premier nom
+  lname: Nom de famille
+  submitBtn: Continuer
+  langBtn: En
+other:
+  fname: Premier nom est?
+  lname: Nom de famille est?
+  submitBtn: Oui!
+  langBtn: En
