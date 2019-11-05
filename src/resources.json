@@ -1,0 +1,18 @@
+{
+  "en": {
+    "translation": {
+      "fname": "First name",
+      "lname": "Last name",
+      "submitBtn": "Continue",
+      "langBtn": "Fr"
+    }
+  },
+  "fr": {
+    "translation": {
+      "fname": "Premier nom",
+      "lname": "Nom de famille",
+      "submitBtn": "Continuer",
+      "langBtn": "En"
+    }
+  }
+}
