@@ -1,0 +1,14 @@
+{
+  "translation": {
+    "fname": "First name",
+    "lname": "Last name",
+    "submitBtn": "Continue",
+    "langBtn": "Fr"
+  },
+  "other": {
+    "fname": "What is your first name?",
+    "lname": "What is your last name?",
+    "submitBtn": "Yes!",
+    "langBtn": "Fr"
+  }
+}
